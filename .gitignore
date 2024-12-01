@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+dip-front/node_modules
+/.pnp
+.pnp.js
+
+/dip-front/venv
+/dip-back/venv
+/dip-back/__pycache__
+env
