@@ -52,7 +52,7 @@ One set of output is given below and others can be found in the report. <br>
 ## Team members
 
 #### The following members made the following contributions in the project:
-> **Mradul Singhal** (22116055) - Implemented of the Texture Transfer algorithm along with the preparation of Report. <br>
+> **Mradul Singhal** (22116055) - Implemented the Texture Transfer algorithm along with the preparation of Report. <br>
 > **Dhruv Goyal** (22112033) - Written and linked the frontend and backend, also wrote clear documentation.<br>
-> **Jatin Gupta** (22116038) - Implementated of the Texture Transfer algorithm along with helping in writing the documentation<br>
+> **Jatin Gupta** (22116038) - Implemented the Texture Transfer algorithm along with helping in writing the documentation<br>
 > **Abhishek Keshari** (22116003) - Research part of the project and contributed in report writing. <br>
